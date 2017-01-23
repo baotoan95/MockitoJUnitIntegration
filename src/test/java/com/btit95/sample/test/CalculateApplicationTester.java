@@ -45,5 +45,6 @@ public class CalculateApplicationTester {
 		calculatorService.mul(7, 0);
 		
 		assertEquals(10, calculateApplication.add(5, 5));
+		
 	}
 }
